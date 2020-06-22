@@ -1,0 +1,3 @@
+﻿  Sync.cpp
+C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr3_sync\Sync\Sync\Sync.cpp(31,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Sync.vcxproj -> C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr3_sync\Sync\Debug\Sync.exe

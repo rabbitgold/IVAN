@@ -1,0 +1,7 @@
+C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe.config
+C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe
+C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.pdb
+C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\obj\Debug\DiskWatcher_service.csprojAssemblyReference.cache
+C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\obj\Debug\DiskWatcher_service.csproj.CoreCompileInputs.cache
+C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\obj\Debug\DiskWatcher_service.exe
+C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\obj\Debug\DiskWatcher_service.pdb

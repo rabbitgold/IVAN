@@ -1,0 +1,108 @@
+﻿Выполняется установка сборки 'C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.InstallLog
+   assemblypath = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe
+Устанавливается служба WallChanger_server...
+Служба WallChanger_server успешно установлена.
+Создается исходный EventLog WallChanger_server в журнале Application...
+Выполняется фиксация сборки 'C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.InstallLog
+   assemblypath = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe
+Выполняется удаление сборки 'C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.InstallLog
+   assemblypath = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe
+Выполняется удаление источника EventLog WallChanger_server.
+Выполняется удаление службы WallChanger_server из системы...
+Служба WallChanger_server успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.InstallLog
+   assemblypath = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe
+Устанавливается служба DiskWatcher_service...
+Служба DiskWatcher_service успешно установлена.
+Создается исходный EventLog DiskWatcher_service в журнале Application...
+Выполняется фиксация сборки 'C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.InstallLog
+   assemblypath = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe
+Выполняется удаление сборки 'C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.InstallLog
+   assemblypath = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe
+Выполняется удаление источника EventLog DiskWatcher_service.
+Выполняется удаление службы DiskWatcher_service из системы...
+Служба DiskWatcher_service успешно удалена из системы.
+Попытка останова службы DiskWatcher_service.
+Выполняется удаление сборки 'C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.InstallLog
+   assemblypath = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe
+Выполняется удаление источника EventLog DiskWatcher_service.
+Предупреждение. Источник DiskWatcher_service не зарегистрирован на локальном компьютере.
+Выполняется удаление службы DiskWatcher_service из системы...
+Служба DiskWatcher_service успешно удалена из системы.
+Попытка останова службы DiskWatcher_service.
+Выполняется установка сборки 'C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.InstallLog
+   assemblypath = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe
+Устанавливается служба DiskWatcher_service...
+Служба DiskWatcher_service успешно установлена.
+Создается исходный EventLog DiskWatcher_service в журнале Application...
+Выполняется фиксация сборки 'C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.InstallLog
+   assemblypath = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe
+Выполняется удаление сборки 'C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.InstallLog
+   assemblypath = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe
+Выполняется удаление источника EventLog DiskWatcher_service.
+Выполняется удаление службы DiskWatcher_service из системы...
+Служба DiskWatcher_service успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.InstallLog
+   assemblypath = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe
+Устанавливается служба DiskWatcher_service...
+Служба DiskWatcher_service успешно установлена.
+Создается исходный EventLog DiskWatcher_service в журнале Application...
+Выполняется фиксация сборки 'C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.InstallLog
+   assemblypath = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe
+Выполняется удаление сборки 'C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.InstallLog
+   assemblypath = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe
+Выполняется удаление источника EventLog DiskWatcher_service.
+Выполняется удаление службы DiskWatcher_service из системы...
+Служба DiskWatcher_service успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.InstallLog
+   assemblypath = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe
+Устанавливается служба DiskWatcher_service...
+Служба DiskWatcher_service успешно установлена.
+Создается исходный EventLog DiskWatcher_service в журнале Application...
+Выполняется фиксация сборки 'C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.InstallLog
+   assemblypath = C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr2_services\DiskWatcher_service\DiskWatcher_service\bin\Debug\DiskWatcher_service.exe

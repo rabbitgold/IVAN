@@ -1,0 +1,7 @@
+C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr1_PCInfo\PCInfo\PCInfo\bin\Debug\PCInfo.exe.config
+C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr1_PCInfo\PCInfo\PCInfo\bin\Debug\PCInfo.exe
+C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr1_PCInfo\PCInfo\PCInfo\bin\Debug\PCInfo.pdb
+C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr1_PCInfo\PCInfo\PCInfo\obj\Debug\PCInfo.csprojAssemblyReference.cache
+C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr1_PCInfo\PCInfo\PCInfo\obj\Debug\PCInfo.csproj.CoreCompileInputs.cache
+C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr1_PCInfo\PCInfo\PCInfo\obj\Debug\PCInfo.exe
+C:\Users\TuzkoZ\Desktop\IVAN\SPO\lr1_PCInfo\PCInfo\PCInfo\obj\Debug\PCInfo.pdb
